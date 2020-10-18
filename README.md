@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://heuristic-bassi-cd108e.netlify.app)
 
 
 ## Tools used
